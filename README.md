@@ -1,6 +1,10 @@
 # 🍅 Retro Pomodoro Timer
 
-A beautifully crafted terminal-based Pomodoro timer that combines productivity with retro pixel aesthetics. Built with Rust and ratatui for a delightful, distraction-free focus experience.
+A well crafted (I think :) ) terminal-based Pomodoro timer that combines productivity with retro pixel aesthetics using RATATUI !
+
+Wanted to try Ratatui, and I decided to build this with Rust (of course!) and ratatui for a delightful, distraction-free focus experience.
+
+If you have used btop or htop in any Linux debian based system, you have already introduced to Ratatui!
 
 ## ✨ Why This Application?
 
