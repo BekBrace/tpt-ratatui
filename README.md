@@ -168,7 +168,7 @@ Easy to modify:
 
 ### Installation
 ```bash
-git clone <repository>
+git clone tpt-ratatui
 cd retro_pomodoro
 cargo build --release
 ```
@@ -181,11 +181,10 @@ cargo run
 ## 💡 Why Terminal Applications?
 
 Terminal apps offer unique advantages:
-- **Minimal distractions** - No GUI clutter
+- **Minimal distractions** - No GUI crap (I dislike GUI apps in general!)
 - **Fast startup** - Instant loading
 - **Low resource usage** - Minimal CPU/memory impact
 - **Scriptable** - Easy to integrate with other tools
-- **Universal** - Works over SSH, in containers, etc.
 
 ## 🎉 Conclusion
 
@@ -200,4 +199,4 @@ It's a testament to Rust's ability to create applications that are both **techni
 
 ---
 
-**Stay focused, stay productive, and enjoy the retro vibes! 🍅⚡**
+**Hope you enjoy the retro vibe in this program! 🍅⚡**
